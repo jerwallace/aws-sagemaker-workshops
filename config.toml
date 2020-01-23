@@ -1,7 +1,7 @@
 languageCode = "en-us"
 ignoreFiles = [ "\\.files/README.md$",  ]
 defaultContentLanguage = "en"
-title = "Amazon RoboMaker Workshop"
+title = "Amazon SageMaker Workshops"
 theme = "learn"
 uglyurls = false
 googleAnalytics = "UA-44634850-4"
@@ -12,19 +12,19 @@ relativeURLs = true
 hrefTargetBlank = true
 
 [params]
-editURL = "https://github.com/jerwallace/aws-robomaker-workshops/edit/master/content/"
+editURL = "https://github.com/jerwallace/aws-sagemaker-workshops/edit/master/content/"
 themeVariant = "mine"
 showVisitedLinks = false
 author = ""
-description = "Amazon RoboMaker Workshop"
+description = "Amazon SageMaker Workshops"
 disableSearch = false
 disableAssetsBusting = false
 disableLanguageSwitchingButton = true
 disableShortcutsTitle=false
 disableInlineCopyToClipBoard = true
-ghrepo = "https://github.com/jerwallace/aws-robomaker-workshops/"
+ghrepo = "https://github.com/jerwallace/aws-sagemaker-workshops/"
 branch = "master"
-template_bucket = "robomakerworkshop.com"
+template_bucket = "sagemakerworkshops.com"
 
 
 
