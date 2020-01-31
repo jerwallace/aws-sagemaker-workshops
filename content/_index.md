@@ -6,4 +6,4 @@ weight: 1
 
 # SageMaker Workshops
 
-Coming Soon!
+Hello world!
