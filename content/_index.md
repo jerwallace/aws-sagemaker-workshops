@@ -6,4 +6,4 @@ weight: 1
 
 # SageMaker Workshops
 
-Are you there SageMaker? It's me, Emily.
+Hello world!
