@@ -10,4 +10,4 @@ Hello SageMakers! If you're looking for that last bit of content to get you over
 
 Alternatively, you might be in the very early stages of your journey to the cloud and/or to machine learning. Also great.
 
-You might be an expert at machine learning, and simply new to AWS and/or SageMaker. Also good. 
+You might be an expert at machine learning, and simply new to AWS and/or SageMaker. Sit back, relax, and enjoy the ride.
