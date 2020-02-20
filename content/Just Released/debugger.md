@@ -1,5 +1,5 @@
 ---
-title: "New feature 1"
+title: "Model Training Debugger"
 chapter: true
 weight: 3
 description: Here's this new feature
