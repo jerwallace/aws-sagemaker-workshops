@@ -1,5 +1,5 @@
 ---
-title: "SageMaker Workshops"
+title: "SageMaker Architecture"
 chapter: true
 weight: 1
 ---
