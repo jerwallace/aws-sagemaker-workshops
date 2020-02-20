@@ -8,6 +8,6 @@ weight: 1
 
 Hello SageMakers! If you're looking for that last bit of content to get you over the hurdle of launching your very own SageMaker projects into production, look no further.
 
-Alternatively, you might be in the very early stages of your journey either to the cloud, and/or to machine learning. Also great.
+Alternatively, you might be in the very early stages of your journey to the cloud and/or to machine learning. Also great.
 
 You might be an expert at machine learning, and simply new to AWS and/or SageMaker. Also good. 
