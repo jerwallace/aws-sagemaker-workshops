@@ -1,5 +1,5 @@
 ---
-title: "Setting Up a Dockerfile"
+title: "Register Your Container in ECR"
 chapter: true
 weight: 3
 description: We will start by setting up your AWS account to develop robot applications with AWS RoboMaker. 
