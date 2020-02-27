@@ -1,10 +1,10 @@
 ---
-title: "SageMaker Architecture"
+title: "Getting Started on SageMaker"
 chapter: true
 weight: 1
 ---
 
-# SageMaker Architecture
+# Getting Started On SageMaker
 
 Hello SageMakers! If you're looking for that last bit of content to get you over the hurdle of launching your very own SageMaker projects into production, look no further.
 
