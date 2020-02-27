@@ -4,8 +4,6 @@ chapter: true
 weight: 1
 ---
 
-![SageMaker](../static/images/sagemaker_logo.png)
-
 # Getting Started On SageMaker
 
 Hello SageMakers! If you're looking for that last bit of content to get you over the hurdle of launching your very own SageMaker projects into production, look no further.
@@ -13,3 +11,7 @@ Hello SageMakers! If you're looking for that last bit of content to get you over
 Alternatively, you might be in the very early stages of your journey to the cloud and/or to machine learning. Also great.
 
 You might be an expert at machine learning, and simply new to AWS and/or SageMaker. Sit back, relax, and enjoy the ride.
+
+<img src="../static/images/sagemaker_logo.png"
+     alt="SageMaker"
+     style="float: left; margin-right: 10px;" />
