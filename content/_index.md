@@ -12,6 +12,6 @@ Alternatively, you might be in the very early stages of your journey to the clou
 
 You might be an expert at machine learning, and simply new to AWS and/or SageMaker. Sit back, relax, and enjoy the ride.
 
-<img src="../static/images/sagemaker_logo.png"
+<img src="images/sagemaker_logo.png"
      alt="SageMaker"
      style="float: left; margin-right: 10px;" />
