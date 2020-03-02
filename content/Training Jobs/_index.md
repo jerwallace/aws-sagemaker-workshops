@@ -1,7 +1,7 @@
 ---
 title: "Training Jobs"
 chapter: true
-weight: 2
+weight: 14
 description: "blah"
 ---
 

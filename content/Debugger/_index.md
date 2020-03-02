@@ -1,7 +1,7 @@
 ---
 title: "Debugger"
 chapter: true
-weight: 2
+weight: 9
 description: 
 ---
 

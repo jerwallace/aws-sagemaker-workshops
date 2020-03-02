@@ -1,7 +1,7 @@
 ---
 title: "Reinforcement Learning"
 chapter: true
-weight: 2
+weight: 12
 description: "blah"
 ---
 

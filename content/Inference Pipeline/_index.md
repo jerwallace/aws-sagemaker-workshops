@@ -1,7 +1,7 @@
 ---
 title: "Inference Pipeline"
 chapter: true
-weight: 2
+weight: 20
 description: 
 ---
 

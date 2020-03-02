@@ -1,7 +1,7 @@
 ---
 title: "Model Monitoring"
 chapter: true
-weight: 2
+weight: 21
 description: "All the new features"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Multi-Model Endpoints"
 chapter: true
-weight: 2
+weight: 23
 description: "All the new features"
 ---
 

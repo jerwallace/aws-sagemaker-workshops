@@ -1,7 +1,7 @@
 ---
 title: "SageMaker Containers (aka Script Mode)"
 chapter: true
-weight: 2
+weight: 13
 description: "blah"
 ---
 

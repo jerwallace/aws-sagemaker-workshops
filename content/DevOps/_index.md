@@ -1,7 +1,7 @@
 ---
 title: "DevOps"
 chapter: true
-weight: 2
+weight: 19
 description: 
 ---
 

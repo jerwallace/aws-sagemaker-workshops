@@ -1,7 +1,7 @@
 ---
 title: "Built-In Algorithms"
 chapter: true
-weight: 2
+weight: 8
 description: "blah"
 ---
 

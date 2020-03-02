@@ -1,7 +1,7 @@
 ---
 title: "Hyperparameter Tuning"
 chapter: true
-weight: 2
+weight: 10
 description: "blah"
 ---
 

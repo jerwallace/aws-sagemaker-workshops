@@ -1,7 +1,7 @@
 ---
 title: "SageMaker Autopilot"
 chapter: true
-weight: 2
+weight: 7
 description: "All the new features"
 
 ---
