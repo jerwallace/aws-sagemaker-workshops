@@ -2,7 +2,8 @@
 title: "Managed Spot Training on SageMaker"
 chapter: true
 weight: 3
-description: Here's how to use this built-in algorithm
+description: Getting started
 ---
 
-
+Video on Managed Spot Training:
+- https://www.youtube.com/watch?v=jH7X5jSmVPU&feature=youtu.be 
