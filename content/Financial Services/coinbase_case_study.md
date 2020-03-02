@@ -2,6 +2,8 @@
 title: "Coinbase Case Study"
 chapter: true
 weight: 3
-description: We will start by setting up your AWS account to develop robot applications with AWS RoboMaker. 
+description: 
 ---
 
+Coinbase Case Study:
+- https://aws.amazon.com/machine-learning/customers/innovators/coinbase/?cs=3 
