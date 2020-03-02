@@ -1,7 +1,7 @@
 ---
 title: "Notebook Instances"
 chapter: true
-weight: 2
+weight: 4
 description: "blah"
 ---
 

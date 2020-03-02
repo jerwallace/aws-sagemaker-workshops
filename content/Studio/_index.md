@@ -1,7 +1,7 @@
 ---
 title: "SageMaker Studio"
 chapter: true
-weight: 2
+weight: 5
 description: "All the new features"
 
 ---

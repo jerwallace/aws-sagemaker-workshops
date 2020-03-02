@@ -1,7 +1,7 @@
 ---
 title: "SageMaker Experiments"
 chapter: true
-weight: 2
+weight: 3
 description: 
 
 ---
