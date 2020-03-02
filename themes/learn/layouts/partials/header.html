@@ -39,7 +39,7 @@
     {{ partial "menu.html" . }}
         <section id="body">
         <div id="overlay"></div>
-        <div class="padding highlightable">
+        <div class="padding highlightable" style="background:url('images/sagemaker_logo.png') no-repeat">
               {{if not .IsHome}}
               <div>
                 <div id="top-bar">
@@ -79,7 +79,7 @@
         {{ if .Params.chapter }}
           <div id="chapter">
         {{ end }}
-        <div id="body-inner">
+        <div id="body-inner" >
           {{if and (not .IsHome) (not .Params.chapter) }}
             <h1>{{.Title}}</h1>
           {{end}}
