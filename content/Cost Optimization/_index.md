@@ -1,7 +1,7 @@
 ---
 title: "Cost Optimization"
 chapter: true
-weight: 2
+weight: 40
 description: "blah"
 ---
 

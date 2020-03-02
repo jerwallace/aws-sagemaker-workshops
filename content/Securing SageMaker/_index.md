@@ -1,7 +1,7 @@
 ---
 title: "Securing SageMaker"
 chapter: true
-weight: 2
+weight: 44
 description: "blah"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Business Intelligence Extensions"
 chapter: true
-weight: 2
+weight: 45
 description: "blah"
 ---
 

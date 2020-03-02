@@ -1,7 +1,7 @@
 ---
 title: "Manufacturing"
 chapter: true
-weight: 2
+weight: 30
 description: "I"
 ---
 

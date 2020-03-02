@@ -1,7 +1,7 @@
 ---
 title: "Developing With AWS"
 chapter: true
-weight: 2
+weight: 42
 description: "blah"
 ---
 

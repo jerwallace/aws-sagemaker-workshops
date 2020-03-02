@@ -1,7 +1,7 @@
 ---
 title: "Computer Vision"
 chapter: true
-weight: 2
+weight: 35
 description: "I"
 ---
 
