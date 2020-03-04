@@ -1,7 +1,7 @@
 ---
-title: "Notebook Instances"
+title: "Built-In Algorithms"
 chapter: true
-weight: 9
+weight: 12
 description: "blah"
 ---
 

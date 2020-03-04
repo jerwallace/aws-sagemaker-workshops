@@ -1,7 +1,6 @@
 ---
-title: "Notebook Instances"
+title: "Business Intelligence Extensions"
 chapter: true
-weight: 9
 description: "blah"
 ---
 

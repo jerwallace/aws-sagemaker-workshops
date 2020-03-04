@@ -1,12 +1,7 @@
 ---
-title: "Notebook Instances"
+title: "Reinforcement Learning"
 chapter: true
-weight: 9
+weight: 16
 description: "blah"
 ---
-
-
-
-
-
 

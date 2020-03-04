@@ -1,7 +1,7 @@
 ---
-title: "SageMaker Studio"
+title: "SageMaker Autopilot"
 chapter: true
-weight: 10
+weight: 11
 description: "All the new features"
 
 ---

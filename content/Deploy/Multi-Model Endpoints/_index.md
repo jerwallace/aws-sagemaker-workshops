@@ -1,7 +1,8 @@
 ---
-title: "SageMaker Studio"
+title: "Multi-Model Endpoints"
 chapter: true
-weight: 10
+weight: 26
 description: "All the new features"
-
 ---
+
+

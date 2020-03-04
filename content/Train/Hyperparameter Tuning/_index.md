@@ -1,12 +1,7 @@
 ---
-title: "Notebook Instances"
+title: "Hyperparameter Tuning"
 chapter: true
-weight: 9
+weight: 14
 description: "blah"
 ---
-
-
-
-
-
 

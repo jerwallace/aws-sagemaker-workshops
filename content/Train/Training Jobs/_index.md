@@ -1,7 +1,7 @@
 ---
-title: "Notebook Instances"
+title: "Training Jobs"
 chapter: true
-weight: 9
+weight: 18
 description: "blah"
 ---
 

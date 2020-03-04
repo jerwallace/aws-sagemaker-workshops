@@ -1,7 +1,7 @@
 ---
-title: "Notebook Instances"
+title: "Model Optimiation (aka Neo)"
 chapter: true
-weight: 9
+weight: 25
 description: "blah"
 ---
 

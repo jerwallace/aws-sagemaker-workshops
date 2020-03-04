@@ -1,5 +1,5 @@
 ---
-title: "Your First SageMaker Workshop"
+title: "Build"
 chapter: true
 weight: 2
 description: "Workshop"

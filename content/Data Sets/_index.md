@@ -1,7 +1,7 @@
 ---
 title: "Data Sets"
 chapter: true
-weight: 33
+weight: 6
 description: "Workshop"
 ---
 

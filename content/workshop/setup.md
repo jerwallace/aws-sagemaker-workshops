@@ -1,7 +1,7 @@
 ---
 title: "Your First SageMaker Workshop"
 chapter: true
-weight: 3
+weight: 30
 description: We will start by setting up your AWS account to develop robot applications with AWS RoboMaker. 
 ---
 

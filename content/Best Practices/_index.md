@@ -1,7 +1,7 @@
 ---
-title: "Your First SageMaker Workshop"
+title: "Best Practices"
 chapter: true
-weight: 39
+weight: 7
 description: "Workshop"
 ---
 
